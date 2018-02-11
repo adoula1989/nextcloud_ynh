@@ -1,5 +1,5 @@
 SOURCE_URL=https://download.nextcloud.com/server/releases/nextcloud-13.0.0.tar.bz2
-SOURCE_SUM=__SHA256_SUM__
+SOURCE_SUM=https://download.nextcloud.com/server/releases/nextcloud-13.0.0.zip.sha256
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.bz2
 SOURCE_IN_SUBDIR=true
